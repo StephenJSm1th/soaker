@@ -1,4 +1,4 @@
-# soaker
+# Soaker
 
 ## A simple Web App to calculate the finish time of an industrial furnace process.
 
